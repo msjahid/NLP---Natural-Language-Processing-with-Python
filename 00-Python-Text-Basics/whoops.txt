@@ -1,0 +1,3 @@
+MY FIRST LINE IN A+ OPENINGThis is an added line, because I used a+ mode
+This is a real new line, on the next lineMY FIRST LINE IN A+ OPENINGMY FIRST LINE IN A+ OPENINGMY FIRST LINE IN A+ OPENINGThis is an added line, because I used a+ mode
+This is a real new line, on the next line

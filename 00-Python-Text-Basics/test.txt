@@ -1,0 +1,5 @@
+MY BRAND NEW TEXT
+This line is being appended to test.txt
+And another line here.
+This is more text being appended to test.txt
+And another line here.
